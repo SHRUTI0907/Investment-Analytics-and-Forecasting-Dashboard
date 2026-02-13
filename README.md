@@ -1,11 +1,11 @@
-# Investment-Analytics-and-Forecasting-Dashboard
-# 📊 Investment Analytics & Forecasting Dashboard
+
+# Investment Analytics & Forecasting Dashboard
 
 An interactive investment portfolio dashboard built using Streamlit to help users track assets, optimize allocation, and forecast stock prices using financial models.
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 This project allows users to:
 
@@ -18,33 +18,33 @@ The dashboard is designed to support data-driven investment decision-making thro
 
 ---
 
-## 🔹 Features
+##  Features
 
-### 💰 Bank Account Management
+###  Bank Account Management
 - Add multiple bank accounts
 - Track balances
 - View total available funds
 - Persistent local storage
 
-### 📈 Portfolio Tracking
+###  Portfolio Tracking
 - Add stock holdings
 - View portfolio composition
 - Real-time market data integration
 
-### 📊 Portfolio Optimization
+###  Portfolio Optimization
 - Uses **Modern Portfolio Theory (MPT)**
 - Optimizes asset allocation
 - Maximizes **Sharpe Ratio**
 - Provides recommended weight distribution
 
-### 🔮 Stock Forecasting
+###  Stock Forecasting
 - Time-series forecasting using **ARIMA**
 - Predicts future stock prices
 - Interactive historical vs forecast visualization
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python
 - Streamlit
@@ -58,7 +58,5 @@ The dashboard is designed to support data-driven investment decision-making thro
 - Seaborn
 - Pickle (Local Storage)
 
----
 
-## 📁 Project Structure
 
